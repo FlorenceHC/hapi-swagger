@@ -1,11 +1,11 @@
 {
-  "name": "hapi-swagger",
+  "name": "@florencehealthcare/hapi-swagger",
   "description": "A swagger documentation UI generator plugin for hapi",
   "version": "8.0.0",
   "author": "Glenn Jones",
   "repository": {
     "type": "git",
-    "url": "git://github.com/glennjones/hapi-swagger.git"
+    "url": "git@github.com:FlorenceHC/hapi-swagger.git"
   },
   "main": "index.js",
   "keywords": [
